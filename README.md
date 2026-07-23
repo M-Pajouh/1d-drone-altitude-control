@@ -38,7 +38,7 @@ Where:
 ## 🚀 How to Run the Simulation
 
 1. **Clone the repository:**
-   ```bash
+  ```bash
   git clone https://github.com/M-Pajouh/1d-drone-altitude-control.git
   ‍‍‍‍‍‍‍‍‍‍```
   
