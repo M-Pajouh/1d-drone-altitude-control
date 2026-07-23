@@ -38,10 +38,12 @@ Where:
 ## 🚀 How to Run the Simulation
 
 1. **Clone the repository:**
+2. 
         ```bash
   git clone https://github.com/M-Pajouh/1d-drone-altitude-control.git‍‍
         ```
-  2. **Open MATLAB:**
+ 
+  3. **Open MATLAB:**
    * Navigate to the cloned folder in MATLAB.
 
   3. **Run the Simulink Model:**
