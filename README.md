@@ -41,10 +41,11 @@ Where:
    ```bash
   git clone https://github.com/M-Pajouh/1d-drone-altitude-control.git
   ‍‍‍‍‍‍‍‍‍‍```
+  
   2. **Open MATLAB:**
    * Navigate to the cloned folder in MATLAB.
 
-3. **Run the Simulink Model:**
+  3. **Run the Simulink Model:**
    * Open the `.slx` model file.
    * Press **Run** to launch the simulation.
    * Open the **Scope** block to view the step response and tracking performance.
